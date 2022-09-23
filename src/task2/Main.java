@@ -1,6 +1,6 @@
 package task2;
 
-public class Main { static Vector[] massiv(int n)
+public class Main { static Vector[] massiv(int n) // Задание про вектора
 {
     if(n<0) n=0;
     Vector[] mas=new Vector[n];
